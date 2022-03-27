@@ -1,0 +1,245 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [{
+        "source": {
+            "id": "the-washington-post",
+            "name": "The Washington Post"
+        },
+        "author": "Rachel Pannett, Amy Cheng, Reis Thebault, Paul Sonne, Shane Harris",
+        "title": "Russia-Ukraine live updates: U.S. vows to hold Russia accountable after it begins attack on Ukraine - The Washington Post",
+        "description": "Ukrainian President Volodymyr Zelensky declared martial law as explosions were heard throughout the country.",
+        "url": "https://www.washingtonpost.com/world/2022/02/24/russia-ukraine-attack-news/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ATCJPDOCENCXJKRPMZDKO3ZTAU.jpg&w=1440",
+        "publishedAt": "2022-02-24T08:26:15Z",
+        "content": "Russian President Vladimir Putin declared on state television on Feb. 24 that Russia was beginning a military operation in eastern Ukraine. (Reuters)\r\nRussian President Vladimir Putin announced a mil… [+2467 chars]"
+    }, {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": "https://www.facebook.com/bbcnews",
+        "title": "Ukraine conflict: Russian forces invade after Putin TV declaration - BBC News",
+        "description": "Explosions are heard near major Ukrainian cities after Russia launched its pre-dawn attack.",
+        "url": "https://www.bbc.com/news/world-europe-60503037",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/BE8B/production/_123397784_976_gettyimages-1238719041.jpg",
+        "publishedAt": "2022-02-24T08:15:47Z",
+        "content": "Image source, Getty Images\r\nImage caption, This shell landed in a street in Kyiv hours after Russia launched its attack\r\nRussian forces have launched a military assault on neighbouring Ukraine, cross… [+6137 chars]"
+    }, {
+        "source": {
+            "id": "google-news",
+            "name": "Google News"
+        },
+        "author": null,
+        "title": "Dow Jones Futures Plunge As Russia Invades Ukraine; Crude Oil Prices Soar - Investor's Business Daily",
+        "description": null,
+        "url": "https://news.google.com/__i/rss/rd/articles/CBMigAFodHRwczovL3d3dy5pbnZlc3RvcnMuY29tL21hcmtldC10cmVuZC9zdG9jay1tYXJrZXQtdG9kYXkvZG93LWpvbmVzLWZ1dHVyZXMtcGx1bmdlLXJ1c3NpYS1pbnZhZGVzLXVrcmFpbmUtY3J1ZGUtb2lsLXByaWNlcy1zb2FyL9IBAA?oc=5",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/BE8B/production/_123397784_976_gettyimages-1238719041.jpg",
+        "publishedAt": "2022-02-24T06:35:00Z",
+        "content": null
+    }, {
+        "source": {
+            "id": "reuters",
+            "name": "Reuters"
+        },
+        "author": null,
+        "title": "Oil surges above $100 for first time since 2014 as Russia attacks Ukraine - Reuters",
+        "description": "Oil prices surged, with Brent breaching $100 a barrel for the first time since 2014 on Thursday as Russia attacked Ukraine, exacerbating concerns that a war in Europe could disrupt global energy supplies.",
+        "url": "https://www.reuters.com/business/energy/oil-rises-us-says-russian-attack-ukraine-may-occur-soon-2022-02-24/",
+        "urlToImage": "https://www.reuters.com/resizer/hmclD4_YwITIwh-7G6C04f39BTk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/BCNSYJT7GJMHDN4ULE7XF4RO54.jpg",
+        "publishedAt": "2022-02-24T05:52:00Z",
+        "content": "BEIJING, Feb 24 (Reuters) - Oil prices surged, with Brent breaching $100 a barrel for the first time since 2014 on Thursday as Russia attacked Ukraine, exacerbating concerns that a war in Europe coul… [+4102 chars]"
+    }, {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Sean Lyngaas, CNN",
+        "title": "Key Ukrainian government websites hit by series of cyberattacks - CNN",
+        "description": "Key Ukrainian government websites were down early Thursday morning local time following a day in which Ukrainian agencies dealt with multiple cyberattacks and as concerns mounted over Russian troop movements into Ukraine's separatist regions.",
+        "url": "https://www.cnn.com/2022/02/23/europe/ukraine-government-commercial-organizations-data-wiping-hack/index.html",
+        "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220126090308-03-laptop-keyboard-stock-super-tease.jpeg",
+        "publishedAt": "2022-02-24T05:47:00Z",
+        "content": "(CNN)Key Ukrainian government websites were down early Thursday morning local time following a day in which Ukrainian agencies dealt with multiple cyberattacks and as concerns mounted over Russian tr… [+5165 chars]"
+    }, {
+        "source": {
+            "id": "associated-press",
+            "name": "Associated Press"
+        },
+        "author": "Jill Colvin",
+        "title": "Russia conflict separates GOP traditionalists from newcomers - Associated Press",
+        "description": "NEW YORK (AP) — As Russia intensified its aggression toward neighboring Ukraine earlier this week, Republican Sen. Rob Portman of Ohio blasted President Vladimir Putin’s provocations as a “clear violation of international law.”",
+        "url": "https://apnews.com/article/russia-ukraine-joe-biden-jd-vance-vladimir-putin-russia-58ad695dd865df38b390d6e830bf38a1",
+        "urlToImage": "https://storage.googleapis.com/afs-prod/media/080497709c554a859f41ba9e5fb883f4/3000.jpeg",
+        "publishedAt": "2022-02-24T04:58:26Z",
+        "content": "NEW YORK (AP) As Russia intensified its aggression toward neighboring Ukraine earlier this week, Republican Sen. Rob Portman of Ohio blasted President Vladimir Putins provocations as a clear violatio… [+8263 chars]"
+    }, {
+        "source": {
+            "id": null,
+            "name": "YouTube"
+        },
+        "author": null,
+        "title": "LIVE: U.N. Security Council holds emergency meeting on Ukraine crisis - Reuters",
+        "description": "The United Nations Security Council holds an emergency meeting on the Ukraine crisis.#Live #Reuters #News #UkraineCrisis #Russia",
+        "url": "https://www.youtube.com/watch?v=uFm41PZx__s",
+        "urlToImage": "https://i.ytimg.com/vi/uFm41PZx__s/maxresdefault.jpg",
+        "publishedAt": "2022-02-24T04:25:53Z",
+        "content": null
+    }, {
+        "source": {
+            "id": null,
+            "name": "CBS Sports"
+        },
+        "author": null,
+        "title": "Xavier Musketeers vs. Providence Friars Live Score and Stats - February 23, 2022 Gametracker - CBSSports.com",
+        "description": "Get real-time COLLEGEBASKETBALL basketball coverage and scores as Xavier Musketeers takes on Providence Friars. We bring you the latest game previews, live stats, and recaps on CBSSports.com",
+        "url": "https://www.cbssports.com/college-basketball/gametracker/live/NCAAB_20220223_XAVIER@PROV/",
+        "urlToImage": "https://sportsfly.cbsistatic.com/fly-0166/bundles/sportsmediacss/images/fantasy/default-article-image-large.png",
+        "publishedAt": "2022-02-24T04:05:23Z",
+        "content": "PROVIDENCE, R.I. (AP) Providence coach Ed Cooley has been hearing a lot about how lucky his team has been to keep winning close games.\r\nHe hopes to start hearing about how much talent his 11th-ranked… [+5225 chars]"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Hollywood Reporter"
+        },
+        "author": "Carolyn Giardina",
+        "title": "Oscars’ Live Telecast Decision Met With Backlash From Academy Members - Hollywood Reporter",
+        "description": "A decision not to present eight Oscar categories live during the March 27 broadcast of the 93rd Academy Awards was met with a storm of criticism and was described as “insulting” by numerous Academy members who spoke with The Hollywood Reporter following the a…",
+        "url": "https://www.hollywoodreporter.com/movies/movie-news/oscars-academy-criticism-broadcast-decision-1235098007/",
+        "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2022/02/GettyImages-1131636195-H-2022.jpg?w=1024",
+        "publishedAt": "2022-02-24T03:56:15Z",
+        "content": "A decision not to present eight Oscar categories live during the March 27 broadcast of the 93rd Academy Awards was met with a storm of criticism and was described as “insulting” by numerous Academy m… [+4897 chars]"
+    }, {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": null,
+        "title": "CNN team hears explosions during live reporting - CNN",
+        "description": "CNN's Matthew Chance in Kyiv, Ukraine, stops his live reporting to put on gear as he and the team hear explosions near the city.",
+        "url": "https://www.cnn.com/videos/world/2022/02/24/ukraine-explosion-chance-live-dlt-fb.cnn",
+        "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220223223447-chance-putting-on-gear-ukraine-thumb-vpx-super-tease.jpg",
+        "publishedAt": "2022-02-24T03:54:54Z",
+        "content": null
+    }, {
+        "source": {
+            "id": null,
+            "name": "Deseret News"
+        },
+        "author": "Herb Scribner",
+        "title": "COVID-19 symptoms: These COVID symptoms worry doctors right now - Deseret News",
+        "description": "Long COVID and long COVID symptoms are worrying doctors right now. Read more about COVID-19 symptoms, including new COVID symptoms.",
+        "url": "https://www.deseret.com/coronavirus/2022/2/23/22946193/covid-19-symptoms-worry-doctors-long-covid",
+        "urlToImage": "https://cdn.vox-cdn.com/thumbor/3pP0WxAqj-qChGKN1RxNb1QPdIQ=/0x215:3000x1786/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23212797/COVID_8.jpg",
+        "publishedAt": "2022-02-24T03:30:00Z",
+        "content": "The coronavirus pandemic is slowing down at the moment as coronavirus cases continue to drop across the world.\r\n<ul><li>However, doctors are still expressing concern over another type of COVID-19 sym… [+1607 chars]"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Gaming INTEL"
+        },
+        "author": "Daniel Medina",
+        "title": "Elden Ring: New Zealand & Worldwide Countdown - When Does It Come Out - Gaming INTEL",
+        "description": "Follow our Elden Ring New Zealand Countdown as we await the release of FromSoftware's latest open-world action RPG game.",
+        "url": "https://gamingintel.com/elden-ring-worldwide-countdown-when-does-it-come-out/",
+        "urlToImage": "https://gamingintel.com/wp-content/uploads/2022/02/Elden-Ring-Everything-We-Learned.jpg",
+        "publishedAt": "2022-02-24T03:02:27Z",
+        "content": "Elden Ring is days away and players in New Zealand will be some of the first to get their hands on FromSoftware’s latest title. See how long you have to wait with the worldwide countdowns below! \r\nDu… [+1604 chars]"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Eonline.com"
+        },
+        "author": "Gabrielle Chung",
+        "title": "Priyanka Chopra Breaks Silence on Rosie O’Donnell's Apology and That \"Awkward\" Encounter - E! NEWS",
+        "description": "Days after Rosie O'Donnell apologized to Priyanka Chopra for mistaking her for Deepak Chopra's daughter during a recent run-in, the actress released a statement of her own addressing the incident.",
+        "url": "https://www.eonline.com/news/1320872/priyanka-chopra-breaks-silence-on-rosie-odonnells-apology-and-that-awkward-encounter",
+        "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2022123/rs_1200x1200-220223163134-1200-rosie-odonnell-priyanka-chopra.cm.22322.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+        "publishedAt": "2022-02-24T02:15:17Z",
+        "content": "Priyanka Chopra has \"some thoughts\" about Rosie O'Donnell's public apology.\r\nTo resurrect what has happened so far: Rosie recently issued a public apology to the Matrix Resurrections star, 39, after … [+806 chars]"
+    }, {
+        "source": {
+            "id": null,
+            "name": "New York Post"
+        },
+        "author": "Mike Vaccaro",
+        "title": "Kemba Walker's Knicks homecoming wasn't supposed to go like this - New York Post ",
+        "description": "The greeting he got opening night was a welcome-home roar he’d waited his whole life to hear. And if the closing credits could’ve rolled then, maybe everyone would’ve walked away satisfied.",
+        "url": "https://nypost.com/2022/02/23/this-wasnt-how-kemba-walkers-knicks-run-was-supposed-to-go/",
+        "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/02/kemba-walker-knicks-done-over.jpg?quality=90&strip=all&w=1024",
+        "publishedAt": "2022-02-24T01:38:00Z",
+        "content": "Sometimes, its not enough to simply crave the fairytale ending. Sometimes, reality gets in the way, takes a Zippo lighter to the final few chapters, turns them to ash. Sometimes, it turns out Thomas … [+4081 chars]"
+    }, {
+        "source": {
+            "id": "cbs-news",
+            "name": "CBS News"
+        },
+        "author": "Sara Sara",
+        "title": "Ivanka Trump in talks to voluntarily appear before January 6 committee, spokesperson says - CBS News",
+        "description": "Last month, the committee tasked with investigating the January 6 attack asked Trump's daughter and former adviser to voluntarily speak with them.",
+        "url": "https://www.cbsnews.com/news/ivanka-trump-in-discussions-to-voluntarily-appear-before-january-6-committee/",
+        "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/04/08/f8ee8388-c634-456d-9d29-fc93f3ce566c/thumbnail/1200x630g2/964460f7f179a76b021e61972b2850b9/ivanka-trump-2020-04-07t193309z.jpg",
+        "publishedAt": "2022-02-24T01:11:00Z",
+        "content": "Ivanka Trump is considering appearing before the House select committee investigating the January 6 attack on the U.S. Capitol, a spokesperson for former President Trump's daughter told CBS News on W… [+2828 chars]"
+    }, {
+        "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+        },
+        "author": "Charles Pulliam-Moore",
+        "title": "All of Netflix’s Marvel shows are moving to Disney Plus in Canada - The Verge",
+        "description": "Daredevil, Jessica Jones, and the rest of the Defenders are moving to Disney Plus for Canadian viewers. What that means for the future of the Netflix Marvel shows in the US is still unclear.",
+        "url": "https://www.theverge.com/2022/2/23/22948263/netflix-marvel-disney-plus-canada",
+        "urlToImage": "https://cdn.vox-cdn.com/thumbor/2tRYdFBlKcQ_NkY6mm_INv82k3Y=/0x209:2922x1739/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23266835/059_GT_107_Unit_00063R.jpeg",
+        "publishedAt": "2022-02-24T01:00:08Z",
+        "content": "The Defenders are having a homecoming, of sorts\r\nLuke Cage, Jessica Jones, and Matt Murdock taking the subway together.\r\nNetflix/Marvel\r\nWith the rights to all of Netflixs Marvel cape shows set to re… [+1404 chars]"
+    }, {
+        "source": {
+            "id": "politico",
+            "name": "Politico"
+        },
+        "author": null,
+        "title": "Florida Senate approves DeSantis' controversial pick for surgeon general - POLITICO",
+        "description": "The Senate voted 24-15 in favor of Ladapo after about 40 minutes of debate, mostly from Democrats who criticized the Harvard-trained medical doctor for not fully supporting Covid-19 vaccines.",
+        "url": "https://www.politico.com/news/2022/02/23/florida-senate-approves-desantis-controversial-pick-for-surgeon-general-00011135",
+        "urlToImage": "https://static.politico.com/d4/95/07b3ed154b1ba0eb20bfe3191b55/200210-jason-pizzo-ap-773.jpg",
+        "publishedAt": "2022-02-23T23:59:12Z",
+        "content": "Ladapo, 43, and DeSantis share many views on Covid-19, including that face masks dont prevent spread and that governments should not require vaccines, in part because he said they have not been prove… [+3650 chars]"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Entertainment Tonight"
+        },
+        "author": "Samantha Schnurr‍",
+        "title": "Halyna Hutchins' Husband Matt Says Watching Alec Baldwin's Interview About 'Rust' Shooting Made Him 'So Angry' - Entertainment Tonight",
+        "description": "Four months after the death of his wife, Matt Hutchins is addressing the fatal 'Rust' shooting in a televised interview.",
+        "url": "https://www.etonline.com/halyna-hutchins-husband-matt-says-watching-alec-baldwins-interview-about-rust-shooting-made-him-so",
+        "urlToImage": "https://www.etonline.com/sites/default/files/styles/max_1280x720/public/images/2022-02/GettyImages-907256300.jpg?h=708ea72c&itok=t7e6C5YZ",
+        "publishedAt": "2022-02-23T23:59:00Z",
+        "content": "Months after the tragic death of his wife, Halyna Hutchins, Matt Hutchins is addressing the world in his first TV interview. \r\nWednesday's NBC Nightly News aired a preview clip of his sit-down with T… [+3848 chars]"
+    }, {
+        "source": {
+            "id": "ars-technica",
+            "name": "Ars Technica"
+        },
+        "author": "Samuel Axon",
+        "title": "Apple will add fifth US English Siri voice in iOS 15.4 - Ars Technica",
+        "description": "\"We work to make the experience feel as personalized as possible,\" Apple said.",
+        "url": "https://arstechnica.com/gadgets/2022/02/apple-will-add-fifth-us-english-siri-voice-in-ios-15-4/",
+        "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/09/iPhone-13-mini-760x380.jpeg",
+        "publishedAt": "2022-02-23T23:32:43Z",
+        "content": "Enlarge/ The back of the iPhone 13 mini.\r\n60 with 47 posters participating\r\nThere are already four American-accented English voices for Siri, but Apple will add a fifth in iOS 15.4. The new voice aim… [+1866 chars]"
+    }, {
+        "source": {
+            "id": null,
+            "name": "YouTube"
+        },
+        "author": null,
+        "title": "Two prosecutors in Manhattan D.A.'s. Trump financial probe resign - CBS News",
+        "description": "Two prosecutors working on the probe into Trump Organization business practices have resigned, reportedly over differences with Manhattan District Attorney A...",
+        "url": "https://www.youtube.com/watch?v=3i2i1aHap2k",
+        "urlToImage": "https://i.ytimg.com/vi/3i2i1aHap2k/maxresdefault.jpg",
+        "publishedAt": "2022-02-23T23:30:06Z",
+        "content": null
+    }]
+}
